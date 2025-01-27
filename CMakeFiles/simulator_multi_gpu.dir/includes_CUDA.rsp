@@ -1,0 +1,1 @@
+-I"/usr/local/cuda-12.1/targets/x86_64-linux/include" -I"/home/lukasg/dem/DEM-Engine/src" -I/home/lukasg/dem/build/src -I"/home/lukasg/dem/DEM-Engine/thirdparty/nvidia_helper_math" -isystem "/usr/local/cuda-12.1/include"
